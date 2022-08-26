@@ -1,2 +1,2 @@
 My first readme
-It is going great
+is going great
